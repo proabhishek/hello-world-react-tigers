@@ -13,7 +13,7 @@ const App = () => {
                   color="green"
                 //   eaters = {["A","B","C"]}
                 />
-                <Button 
+                {/* <Button 
                     name="Orange"
                     color="orange"
                     
@@ -22,7 +22,7 @@ const App = () => {
                     name="Banana"
                     price={300}
                     color="yellow"
-                />
+                /> */}
         </div>
     )
 }
